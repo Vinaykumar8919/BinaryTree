@@ -1,0 +1,8 @@
+Post-order traversal:
+4 5 2 6 3 1 
+Pre-order traversal:
+1 2 4 5 3 6 
+In-order traversal:
+4 2 5 1 6 3 
+Maximum value: 6
+Minimum value: 1
